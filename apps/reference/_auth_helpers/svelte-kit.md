@@ -8,7 +8,7 @@ sidebar_label: With SvelteKit
 
 This submodule provides convenience helpers for implementing user authentication in [SvelteKit](https://kit.svelte.dev/) applications.
 
-## Installation
+## Installation (outdated)
 
 Using [npm](https://npmjs.org):
 
